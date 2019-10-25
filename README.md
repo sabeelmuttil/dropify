@@ -135,7 +135,7 @@ $('.dropify').dropify();
 ```
 
 
-* __showErrors:__  You can hide errors if you add the attr __data-show-loader="false"__. Default: true.
+* __showErrors:__  You can hide errors if you add the attr __data-show-errors="false"__. Default: true.
 
 ```html
 <input type="file" class="dropify" data-show-errors="true" />
